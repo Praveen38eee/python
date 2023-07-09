@@ -1,3 +1,5 @@
+
+'''Given two strings, PRINT (YES or NO) whether the second string can be obtained from the first by deletion of none, one or more characters '''
 str1 = input("Enter the first string: ")
 str2 = input("Enter the second string: ")
 i1 = 0
