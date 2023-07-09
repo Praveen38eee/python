@@ -1,3 +1,4 @@
+'''Write a python program to convert tuple to a string '''
 def convertTuple(tup):
 	str = ''
 	for item in tup:
