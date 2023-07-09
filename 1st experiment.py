@@ -1,5 +1,4 @@
-''' Get an integer input from a user. If the number is odd, then find the factorial of a number and find the number of digits in the factorial of the number. If the number is even, then check if the given number is a palindrome or not.
-'''
+''' Get an integer input from a user. If the number is odd, then find the factorial of a number and find the number of digits in the factorial of the number. If the number is even, then check if the given number is a palindrome or not.'''
 num = int(input("Enter an integer: "))
 if num % 2 != 0:
     factorial = 1
