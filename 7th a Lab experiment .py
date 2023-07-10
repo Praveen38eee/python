@@ -1,3 +1,4 @@
+'''Write a python program which takes a list of ‘n’ numbers as an input, then gives the index as input and it should display the element at the index'''
 try:
     n=int(input("Enter the range :  "))
     list_=[]
