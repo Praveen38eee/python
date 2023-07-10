@@ -1,3 +1,4 @@
+'''Write a python program to read “n” lines from the file'''
 try:
     file="sample.txt"
     files=open(file,'r')
